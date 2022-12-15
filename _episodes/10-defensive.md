@@ -540,5 +540,4 @@ This violates another important rule of programming:
 > {: .solution}
 {: .challenge}
 
-
 {% include links.md %}
